@@ -16,7 +16,7 @@ class Home extends Component {
                             <ul className="nav navbar-nav navbar-right">
                                 <li><a href="#about" className="page-scroll">About</a></li>
                                 <li><a href="#services" className="page-scroll">Services</a></li>
-                                <li><a href="#pricing" className="page-scroll">Pricing</a></li>
+                                <li><a href="#pricing" className="page-scroll">Portfolio</a></li>
                                 <li><a href="#contact" className="page-scroll">Contact</a></li>
                             </ul>
                         </div>
@@ -130,8 +130,6 @@ class Home extends Component {
                                     <div className="plan-signup"> <a href="#" className="btn-system border-btn">Visit</a> </div>
                                 </div>
                             </div>
-                        </div>
-                        <div className="row">
                             <div className="col-md-4 col-sm-4">
                                 <div className="pricing-table highlight-plan">
                                     <div className="plan-name">
