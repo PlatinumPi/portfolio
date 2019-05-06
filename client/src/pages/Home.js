@@ -131,6 +131,25 @@ class Home extends Component {
                                 </div>
                             </div>
                         </div>
+                        <div className="row">
+                            <div className="col-md-4 col-sm-4">
+                                <div className="pricing-table highlight-plan">
+                                    <div className="plan-name">
+                                        <h3>Project 2</h3>
+                                    </div>
+                                    <div className="plan-price">
+                                        <div className="price-value"><i className="fa fa-floppy-o" /></div>
+                                    </div>
+                                    <div className="plan-list">
+                                        <ul>
+                                            <li><strong>Date</strong> 5-5-2019</li>
+                                            <li><strong>Link</strong> https://dry-wave-69554.herokuapp.com/</li>
+                                        </ul>
+                                    </div>
+                                    <div className="plan-signup"> <a href="https://dry-wave-69554.herokuapp.com/" className="btn-system border-btn">Visit</a> </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 {/* Contact Section */}
